@@ -335,7 +335,7 @@ Change the `?username=` value to your [Wakatime](https://wakatime.com) username.
 
 - Showing icons
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=issues&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=webleon&hide=issues&show_icons=true)
 
 - Customize Border Color
 
